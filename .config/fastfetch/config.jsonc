@@ -1,0 +1,56 @@
+{
+  "$schema": "https://raw.githubusercontent.com/fastfetch-cli/fastfetch/dev/doc/json_schema.json",
+  
+  "logo": {
+      "source": "Linux",
+      "padding": {
+        "right": 2
+      }
+  },
+
+  "modules": [
+    {
+      "type": "custom",
+      "key": "OS",
+      "format": "Novaris",
+      "keyColor": "blue",
+      "valueColor": "white"
+    },
+    {
+      "type": "uptime",
+      "keyColor": "cyan",
+      "valueColor": "white"
+    },
+    {
+      "type": "shell",
+      "keyColor": "magenta",
+      "valueColor": "white"
+    },
+    {
+      "type": "wm",
+      "keyColor": "yellow",
+      "valueColor": "white"
+    },
+    {
+      "type": "terminal",
+      "keyColor": "green",
+      "valueColor": "white"
+    },
+    {
+      "type": "cpu",
+      "keyColor": "red",
+      "valueColor": "white"
+    },
+    {
+      "type": "gpu",
+      "keyColor": "blue",
+      "valueColor": "white"
+    },
+    {
+      "type": "memory",
+      "keyColor": "cyan",
+      "valueColor": "white"
+    }
+  ],
+}
+
