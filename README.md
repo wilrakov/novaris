@@ -1,6 +1,6 @@
-# Novaris Configs File
+# Configs File
 ## Le contenu
-Ce repository Github contient tout simplement les fichiers de configurations nécessaires post-installation de Novaris OS.
+Ce repository Github contient tous mes fichiers de configurations Linux.
 
 Les configurations sont plutôt simple et c'est fait exprès, le but est que vous fassiez votre propre version qui vous conviendrait entièrement.
 Vim n'a pas de configuration non plus, c'est à vous d'en faire ou alors d'en télécharger.
